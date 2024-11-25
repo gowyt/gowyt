@@ -1,6 +1,6 @@
 - Hi, I’m @gowyt
 - I’m interested in computer science, cybersecurity, AI, coding, tech, FOSS, software, hardware, gadgets, mental and physical health, gym workout and nutrition.
-- I’m currently learning CS50 (C, Python, SQL, HTML, CSS...) and Cross-Platform Application Development (UTAD).
+- I’m currently learning Cross-Platform Application Development (UTAD) and CS50 (C, Python, SQL, HTML, CSS...).
   I plan to continue with Project Odin and others.
 - I’m looking to collaborate on FOSS projects and learn along the way.
 - How to reach me ... (In progress)
