@@ -4,7 +4,7 @@
   I plan to continue with Project Odin and others.
 - I’m looking to collaborate on FOSS projects and learn along the way.
 - How to reach me ... (In progress)
-- Fun fact: Its compilated...
+- Fun fact: Its compilating...
 
 <!---
 gowyt/gowyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
