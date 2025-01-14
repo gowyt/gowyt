@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @gowyt<br>Interested in computer science, cybersecurity, AI, coding, tech, FOSS, software, hardware, gadgets, mental and physical health, gym workout and nutrition.<br>Currently learning Cross-Platform Application Development (UTAD) and CS50 (C, Python, SQL, HTML, CSS...). I plan to continue with Project Odin and others.<br>Looking to collaborate on FOSS projects and learn along the way.<br>How to reach me ... (In progress)<br>Its compilated...<br><br>
+Hi, I’m @gowyt<br>Computer science & tech enthusiast, cybersecurity, AI, coding, tech, FOSS, software, hardware, gadgets, mental and physical health, gym workout and nutrition.<br>Currently learning Cross-Platform Application Development (UTAD) and CS50 (C, Python, SQL, HTML, CSS...). I plan to continue with Project Odin and others.<br>Looking to collaborate on FOSS projects and learn along the way.<br>How to reach me ... (In progress)<br>Its compilated...<br><br>
 
 
 ## 🌐 Socials:
